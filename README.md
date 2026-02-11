@@ -14,7 +14,7 @@ This repository contains Python scripts and Jupyter notebooks focusing on implem
 
 * Building and training basic Neural Networks.
 * Implementations of classic models.
-* Code examples using major DL frameworks (PyTorch or TensorFlow).
+* Code examples using major DL frameworks (TensorFlow).
 
 ---
 
